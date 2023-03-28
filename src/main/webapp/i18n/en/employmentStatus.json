@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "employmentStatus": {
+      "home": {
+        "title": "Employment Statuses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Employment Status",
+        "createOrEditLabel": "Create or edit a Employment Status",
+        "notFound": "No Employment Statuses found"
+      },
+      "created": "A new Employment Status is created with identifier {{ param }}",
+      "updated": "A Employment Status is updated with identifier {{ param }}",
+      "deleted": "A Employment Status is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Employment Status {{ id }}?"
+      },
+      "detail": {
+        "title": "Employment Status"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

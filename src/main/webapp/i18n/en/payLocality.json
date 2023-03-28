@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "payLocality": {
+      "home": {
+        "title": "Pay Localities",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Pay Locality",
+        "createOrEditLabel": "Create or edit a Pay Locality",
+        "notFound": "No Pay Localities found"
+      },
+      "created": "A new Pay Locality is created with identifier {{ param }}",
+      "updated": "A Pay Locality is updated with identifier {{ param }}",
+      "deleted": "A Pay Locality is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Pay Locality {{ id }}?"
+      },
+      "detail": {
+        "title": "Pay Locality"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

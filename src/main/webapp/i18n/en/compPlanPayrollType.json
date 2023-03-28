@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "compPlanPayrollType": {
+      "home": {
+        "title": "Comp Plan Payroll Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Comp Plan Payroll Type",
+        "createOrEditLabel": "Create or edit a Comp Plan Payroll Type",
+        "notFound": "No Comp Plan Payroll Types found"
+      },
+      "created": "A new Comp Plan Payroll Type is created with identifier {{ param }}",
+      "updated": "A Comp Plan Payroll Type is updated with identifier {{ param }}",
+      "deleted": "A Comp Plan Payroll Type is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Comp Plan Payroll Type {{ id }}?"
+      },
+      "detail": {
+        "title": "Comp Plan Payroll Type"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

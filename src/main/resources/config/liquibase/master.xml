@@ -17,6 +17,18 @@
     <property name="datetimeType" value="datetime" dbms="postgresql"/>
 
     <include file="config/liquibase/changelog/00000000000000_initial_schema.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100549_added_entity_Country.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100550_added_entity_PayLocality.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100551_added_entity_PayType.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100552_added_entity_Step.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100553_added_entity_Union.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100554_added_entity_ComponentUnit.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100555_added_entity_Grade.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100556_added_entity_EmploymentType.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100557_added_entity_EmploymentStatus.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100558_added_entity_FacilityOrganizationalUnit.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100559_added_entity_CompPlanPayrollType.xml" relativeToChangelogFile="false"/>
+    <include file="config/liquibase/changelog/20230328100600_added_entity_LocationShift.xml" relativeToChangelogFile="false"/>
     <!-- jhipster-needle-liquibase-add-changelog - JHipster will add liquibase changelogs here -->
     <!-- jhipster-needle-liquibase-add-constraints-changelog - JHipster will add liquibase constraints changelogs here -->
     <!-- jhipster-needle-liquibase-add-incremental-changelog - JHipster will add incremental liquibase changelogs here -->

@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "componentUnit": {
+      "home": {
+        "title": "Component Units",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Component Unit",
+        "createOrEditLabel": "Create or edit a Component Unit",
+        "notFound": "No Component Units found"
+      },
+      "created": "A new Component Unit is created with identifier {{ param }}",
+      "updated": "A Component Unit is updated with identifier {{ param }}",
+      "deleted": "A Component Unit is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Component Unit {{ id }}?"
+      },
+      "detail": {
+        "title": "Component Unit"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

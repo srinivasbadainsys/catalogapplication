@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "payType": {
+      "home": {
+        "title": "Pay Types",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Pay Type",
+        "createOrEditLabel": "Create or edit a Pay Type",
+        "notFound": "No Pay Types found"
+      },
+      "created": "A new Pay Type is created with identifier {{ param }}",
+      "updated": "A Pay Type is updated with identifier {{ param }}",
+      "deleted": "A Pay Type is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Pay Type {{ id }}?"
+      },
+      "detail": {
+        "title": "Pay Type"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}
