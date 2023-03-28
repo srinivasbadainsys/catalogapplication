@@ -1,0 +1,89 @@
+
+
+entity Country {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity PayLocality {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity PayType {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity Step {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity Union {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity ComponentUnit {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity Grade {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity EmploymentType {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity EmploymentStatus {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity FacilityOrganizationalUnit {
+	id Long
+    name String
+    description String
+    code String    
+}
+entity CompPlanPayrollType {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+entity LocationShift {
+	id Long
+    name String
+    description String
+    code String    
+}
+
+paginate all with pagination
+
+service all with serviceClass
+
