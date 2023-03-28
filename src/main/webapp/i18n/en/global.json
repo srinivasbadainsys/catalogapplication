@@ -7,6 +7,18 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entities",
+        "country": "Country",
+        "payLocality": "Pay Locality",
+        "payType": "Pay Type",
+        "step": "Step",
+        "union": "Union",
+        "componentUnit": "Component Unit",
+        "grade": "Grade",
+        "employmentType": "Employment Type",
+        "employmentStatus": "Employment Status",
+        "facilityOrganizationalUnit": "Facility Organizational Unit",
+        "compPlanPayrollType": "Comp Plan Payroll Type",
+        "locationShift": "Location Shift",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

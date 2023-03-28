@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "locationShift": {
+      "home": {
+        "title": "Location Shifts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Location Shift",
+        "createOrEditLabel": "Create or edit a Location Shift",
+        "notFound": "No Location Shifts found"
+      },
+      "created": "A new Location Shift is created with identifier {{ param }}",
+      "updated": "A Location Shift is updated with identifier {{ param }}",
+      "deleted": "A Location Shift is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Location Shift {{ id }}?"
+      },
+      "detail": {
+        "title": "Location Shift"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

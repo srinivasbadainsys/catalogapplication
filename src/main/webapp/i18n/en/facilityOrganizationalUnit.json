@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "facilityOrganizationalUnit": {
+      "home": {
+        "title": "Facility Organizational Units",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Facility Organizational Unit",
+        "createOrEditLabel": "Create or edit a Facility Organizational Unit",
+        "notFound": "No Facility Organizational Units found"
+      },
+      "created": "A new Facility Organizational Unit is created with identifier {{ param }}",
+      "updated": "A Facility Organizational Unit is updated with identifier {{ param }}",
+      "deleted": "A Facility Organizational Unit is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Facility Organizational Unit {{ id }}?"
+      },
+      "detail": {
+        "title": "Facility Organizational Unit"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}

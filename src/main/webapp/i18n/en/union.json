@@ -1,0 +1,26 @@
+{
+  "catalogapplicationApp": {
+    "union": {
+      "home": {
+        "title": "Unions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Union",
+        "createOrEditLabel": "Create or edit a Union",
+        "notFound": "No Unions found"
+      },
+      "created": "A new Union is created with identifier {{ param }}",
+      "updated": "A Union is updated with identifier {{ param }}",
+      "deleted": "A Union is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Union {{ id }}?"
+      },
+      "detail": {
+        "title": "Union"
+      },
+      "id": "Id",
+      "name": "Name",
+      "description": "Description",
+      "code": "Code"
+    }
+  }
+}
